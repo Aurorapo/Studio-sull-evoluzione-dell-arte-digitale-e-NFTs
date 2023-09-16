@@ -60,5 +60,6 @@ Among the various wallets available, I have chosen MetaMask for several reasons.
 
 Lastly, as for the blockchain, I have opted for Polygon. One of the advantages of Polygon over Ethereum is its scalability. Polygon uses a second-layer solution that allows for processing a higher number of transactions at lower costs compared to Ethereum, making it more cost-effective for users like me who want to avoid high fees. Scalability also leads to faster transaction speeds compared to Ethereum, which can take several minutes to confirm a transaction, while Polygon can complete it almost instantly. Since Polygon is based on the Ethereum blockchain, it is compatible with smart contracts and tokens, allowing for easy transfer between blockchains.
 
-[Link to the project](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/54765070540673123524803942929670357497483261736728030184410611149963129782273) <br>
+[Link to the project](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/54765070540673123524803942929670357497483261736728030184410611149963129782273)
+
 [Link to the Italian version of the thesis](https://github.com/Aurorapo/Studio-sull-evoluzione-dell-arte-digitale-e-NFTs/blob/main/Thesis_Italian.pdf)
