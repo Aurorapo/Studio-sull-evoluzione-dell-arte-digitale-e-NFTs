@@ -1,4 +1,4 @@
-# Studio-sull-evoluzione-dell-arte-digitale-e-NFTs# Thesis: Evolution of Digital Art through NFTs
+# Thesis: Evolution of Digital Art through NFTs
 
 Welcome to the repository of my thesis on the evolution of digital art through the use of Non-Fungible Tokens (NFTs).
 
